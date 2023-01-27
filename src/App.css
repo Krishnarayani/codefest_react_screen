@@ -1,6 +1,3 @@
-.App {
-  text-align: center;
-}
 
 .App-logo {
   height: 40vmin;
@@ -22,7 +19,7 @@
   color: #61dafb;
 }
 
-.heart {
+.error {
   color: #ff0000;
 }
 
